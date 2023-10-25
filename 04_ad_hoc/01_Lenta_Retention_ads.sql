@@ -23,3 +23,4 @@ FROM
 WHERE ((source = 'ads'))
 GROUP BY date, start_date
 LIMIT 1000;
+git.m
